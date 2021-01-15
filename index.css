@@ -1,0 +1,21 @@
+body {
+    display:flex;
+}
+
+h2{
+    color:whitesmoke;
+}
+
+.smallScreen {
+    background-color: blue;
+}
+
+.mediumScreen {
+    background-color: aqua;
+}
+
+
+
+.bigScreen {
+    background-color: pink;
+}
